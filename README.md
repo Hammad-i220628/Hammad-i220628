@@ -78,9 +78,6 @@
       <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Craft Hive Portfolio"/>
     </a>
     <p>
-      <a href="https://github.com/hammadaliduggal" target="_blank">
-        <img src="https://img.shields.io/badge/Code-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>  
       <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
@@ -96,9 +93,6 @@
       <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Ecommerce Site"/>
     </a>
     <p>
-      <a href="https://github.com/hammadaliduggal" target="_blank">
-        <img src="https://img.shields.io/badge/Code-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>  
       <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
@@ -117,9 +111,6 @@
       <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Travel Website"/>
     </a>
     <p>
-      <a href="https://github.com/hammadaliduggal" target="_blank">
-        <img src="https://img.shields.io/badge/Code-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>  
       <a href="https://travel-company-ecru.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
