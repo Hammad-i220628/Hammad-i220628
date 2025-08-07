@@ -3,9 +3,15 @@
 </div>
 
 <p align="center">
-  <a href="mailto:hammadaliduggaljutt@gmail.com"><img src="https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/hammad-ali-duggal-030ba427b/"><img src="https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/hammad_ali_duggal_92"><img src="https://img.shields.io/badge/Instagram-4B5563?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:hammadaliduggaljutt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hammad-ali-duggal-030ba427b/">
+    <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/hammad_ali_duggal_92">
+    <img src="https://img.shields.io/badge/Instagram-4B5563?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ## 💫 About Me
