@@ -71,7 +71,7 @@
 <table>
   <tr>
 
- <td width="50%">
+<td width="50%">
   <h3 align="center">Craft Hive Solution Portfolio</h3>
   <div align="center">
     <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
@@ -104,7 +104,7 @@
 </tr>
 <tr>
 
- <td width="50%">
+<td width="50%">
   <h3 align="center">Travel Company Website</h3>
   <div align="center">
     <a href="https://travel-company-ecru.vercel.app/" target="_blank">
@@ -116,6 +116,21 @@
       </a>
     </p>
     <p><strong>React, CSS</strong> — Animated and responsive landing page for a travel company with modern UI and smooth scroll.</p>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">Social Trend App</h3>
+  <div align="center">
+    <a href="https://social-trend-hammad.netlify.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Social Trend"/>
+    </a>
+    <p>
+      <a href="https://social-trend-hammad.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=netlify&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>React</strong> — Trend tracking site with stylish charts and social media integration.</p>
   </div>
 </td>
 
