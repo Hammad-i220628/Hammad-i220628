@@ -79,7 +79,7 @@
     </a>
     <p>
       <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
     <p><strong>React, Tailwind, Node.js</strong> — Modern portfolio site showcasing company services, team, and projects with responsive UI.</p>
@@ -94,7 +94,7 @@
     </a>
     <p>
       <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
     <p><strong>MERN Stack</strong> — Fullstack ecommerce app with cart, auth, admin dashboard, and real-time DB integration.</p>
@@ -112,7 +112,7 @@
     </a>
     <p>
       <a href="https://travel-company-ecru.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
     <p><strong>React, CSS</strong> — Animated and responsive landing page for a travel company with modern UI and smooth scroll.</p>
@@ -127,7 +127,7 @@
     </a>
     <p>
       <a href="https://social-trend-hammad.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </p>
     <p><strong>React</strong> — Trend tracking site with stylish charts and social media integration.</p>
