@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1D56&height=200&section=header&text=Hammad%20Ali%20Duggal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=200&section=header&text=Hammad%20Ali%20Duggal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <a href="mailto:hammadaliduggaljutt@gmail.com"><img src="https://img.shields.io/badge/Email-0A1D56?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/hammad-ali-duggal-030ba427b/"><img src="https://img.shields.io/badge/LinkedIn-0A1D56?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/hammad_ali_duggal_92"><img src="https://img.shields.io/badge/Instagram-0A1D56?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:hammadaliduggaljutt@gmail.com"><img src="https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/hammad-ali-duggal-030ba427b/"><img src="https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/hammad_ali_duggal_92"><img src="https://img.shields.io/badge/Instagram-4B5563?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ## 💫 About Me
@@ -54,12 +54,12 @@
 <summary><b>Tools & Platforms</b></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-0A1D56?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0A1D56?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-0A1D56?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0A1D56?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-0A1D56?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-0A1D56?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4B5563?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4B5563?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-4B5563?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-4B5563?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-4B5563?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-4B5563?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 </details>
 
@@ -79,10 +79,10 @@
     </a>
     <p>
       <a href="https://github.com/hammadaliduggal" target="_blank">
-        <img src="https://img.shields.io/badge/Code-0A1D56?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Code-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
       </a>  
       <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-0A1D56?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
     <p><strong>React, Tailwind, Node.js</strong> — Modern portfolio site showcasing company services, team, and projects with responsive UI.</p>
@@ -97,10 +97,10 @@
     </a>
     <p>
       <a href="https://github.com/hammadaliduggal" target="_blank">
-        <img src="https://img.shields.io/badge/Code-0A1D56?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Code-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
       </a>  
       <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-0A1D56?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
     <p><strong>MERN Stack</strong> — Fullstack ecommerce app with cart, auth, admin dashboard, and real-time DB integration.</p>
@@ -118,10 +118,10 @@
     </a>
     <p>
       <a href="https://github.com/hammadaliduggal" target="_blank">
-        <img src="https://img.shields.io/badge/Code-0A1D56?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Code-4B5563?style=for-the-badge&logo=github&logoColor=white"/>
       </a>  
       <a href="https://travel-company-ecru.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo-0A1D56?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Demo-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
     <p><strong>React, CSS</strong> — Animated and responsive landing page for a travel company with modern UI and smooth scroll.</p>
@@ -133,5 +133,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1D56&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=120&section=footer" width="100%" />
 </div>
