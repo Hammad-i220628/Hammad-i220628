@@ -8,10 +8,6 @@
   <a href="https://instagram.com/hammad_ali_duggal_92"><img src="https://img.shields.io/badge/Instagram-6E48AA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hammadaliduggal&color=6E48AA&style=for-the-badge" alt="Profile Views" />
-</div>
-
 ## 💫 About Me
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
@@ -24,17 +20,6 @@
 - 📫 Reach me at **[hammadaliduggaljutt@gmail.com](mailto:hammadaliduggaljutt@gmail.com)**
 
 <br clear="right"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadaliduggal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9E6EFE&icon_color=9E6EFE&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadaliduggal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9E6EFE&text_color=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadaliduggal&theme=tokyonight&hide_border=true&background=0D1117&stroke=9E6EFE&ring=9E6EFE&fire=9E6EFE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9E6EFE&sideLabels=9E6EFE&dates=FFFFFF" alt="GitHub Streak" />
-</div>
 
 ## 🛠️ Technical Skills
 
@@ -141,20 +126,6 @@
 
 </tr>
 </table>
-</div>
-
-## 📜 Certifications & Education
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cloud_Computing-AWS_Academy-6E48AA?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy" />
-  <img src="https://img.shields.io/badge/DevOps-Udemy-9E6EFE?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-  <img src="https://img.shields.io/badge/BS_Software_Engineering-University-6E48AA?style=for-the-badge&logo=bookstack&logoColor=white" alt="University" />
-</div>
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadaliduggal&bg_color=0D1117&color=9E6EFE&line=6E48AA&point=9E6EFE&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
