@@ -25,28 +25,28 @@
 
 ## 🛠️ Technical Skills
 
-<details>
+<details open>
 <summary><b>Programming Languages</b></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-0A1D56?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0A1D56?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0A1D56?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-0A1D56?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-0A1D56?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0A1D56?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4B5563?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-4B5563?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-4B5563?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-4B5563?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Frameworks & Technologies</b></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/React-0A1D56?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0A1D56?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-0A1D56?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0A1D56?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0A1D56?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-4B5563?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-4B5563?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-4B5563?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-4B5563?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 </details>
 
