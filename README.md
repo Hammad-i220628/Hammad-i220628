@@ -42,8 +42,6 @@
   <a href="https://drive.google.com/file/d/10mJ2QEmzYGwUAkzAQwfspTtgyohUBl7s/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/View%20CV-4B5563?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
-
-
 <br clear="right"/>
 
 ---
