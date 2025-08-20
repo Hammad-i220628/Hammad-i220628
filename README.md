@@ -22,7 +22,7 @@
 - 🔭 Currently working on **Full Stack Websites**  
 
 - **Passionate About:**  
-  🔧 Backend Development   |   <img src="https://img.shields.io/badge/AI%20%2F%20ML-4B5563?style=for-the-badge&logo=roblox&logoColor=white"/>  
+  🔧 Backend Development   |   🤖 AI/ML 
 
 - **Currently Learning:**  
   <p>
