@@ -21,12 +21,18 @@
 - 🎓 Pursuing **BS Software Engineering**  
 - 🔭 Currently working on **Full Stack Websites**  
 
-- 🌱 **Currently Learning:** <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=openai&logoColor=white" alt="NLP"/> <img src="https://img.shields.io/badge/InfoSec-4B5563?style=for-the-badge&logo=security&logoColor=white" alt="InfoSec"/> <img src="https://img.shields.io/badge/SRE-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white" alt="SRE"/> <img src="https://img.shields.io/badge/FSPM-4B5563?style=for-the-badge&logo=apachemaven&logoColor=white" alt="FSPM"/>
+- **Currently Learning:**  
+  <p>
+    <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/InfoSec-4B5563?style=for-the-badge&logo=security&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SRE-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FSPM-4B5563?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  </p>
 
-- 💡 **Passionate About:**  
+- **Passionate About:**  
   🔧 Backend Development &nbsp; | &nbsp; 🧠 AI / ML  
 
-- 💬 **Ask Me About:**  
+- **Ask Me About:**  
   <p>
     <img src="https://img.shields.io/badge/MERN-4B5563?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=java&logoColor=white"/>
@@ -34,7 +40,7 @@
     <img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
 
-- 📫 Reach me at **[hammadaliduggaljutt@gmail.com](mailto:hammadaliduggaljutt@gmail.com)** ✉️  
+- Reach me at **[hammadaliduggaljutt@gmail.com](mailto:hammadaliduggaljutt@gmail.com)** 
 
 <br clear="right"/>
 
@@ -87,65 +93,71 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Craft Hive Solution Portfolio</h3>
-      <div align="center">
-        <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Craft Hive Portfolio"/>
-        </a>
-        <p>
-          <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React, Tailwind, Node.js</strong> — Modern portfolio site showcasing company services, team, and projects with responsive UI.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Ecommerce Fullstack App</h3>
-      <div align="center">
-        <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Ecommerce Site"/>
-        </a>
-        <p>
-          <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>MERN Stack</strong> — Fullstack ecommerce app with cart, auth, admin dashboard, and real-time DB integration.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Travel Company Website</h3>
-      <div align="center">
-        <a href="https://travel-company-ecru.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Travel Website"/>
-        </a>
-        <p>
-          <a href="https://travel-company-ecru.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React, CSS</strong> — Animated and responsive landing page for a travel company with modern UI and smooth scroll.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Social Trend App</h3>
-      <div align="center">
-        <a href="https://social-trend-hammad.netlify.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Social Trend"/>
-        </a>
-        <p>
-          <a href="https://social-trend-hammad.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=netlify&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>React</strong> — Trend tracking site with stylish charts and social media integration.</p>
-      </div>
-    </td>
-  </tr>
+
+<td width="50%">
+  <h3 align="center">Craft Hive Solution Portfolio</h3>
+  <div align="center">
+    <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Craft Hive Portfolio"/>
+    </a>
+    <p>
+      <a href="https://craft-hive-solution-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>React, Tailwind, Node.js</strong> — Modern portfolio site showcasing company services, team, and projects with responsive UI.</p>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">Ecommerce Fullstack App</h3>
+  <div align="center">
+    <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Ecommerce Site"/>
+    </a>
+    <p>
+      <a href="https://ecommerce-fullstack-design-teal.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>MERN Stack</strong> — Fullstack ecommerce app with cart, auth, admin dashboard, and real-time DB integration.</p>
+  </div>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%">
+  <h3 align="center">Travel Company Website</h3>
+  <div align="center">
+    <a href="https://travel-company-ecru.vercel.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Travel Website"/>
+    </a>
+    <p>
+      <a href="https://travel-company-ecru.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>React, CSS</strong> — Animated and responsive landing page for a travel company with modern UI and smooth scroll.</p>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">Social Trend App</h3>
+  <div align="center">
+    <a href="https://social-trend-hammad.netlify.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Social Trend"/>
+    </a>
+    <p>
+      <a href="https://social-trend-hammad.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-4B5563?style=for-the-badge&logo=netlify&logoColor=white"/>
+      </a>
+    </p>
+    <p><strong>React</strong> — Trend tracking site with stylish charts and social media integration.</p>
+  </div>
+</td>
+
+</tr>
 </table>
 </div>
 
