@@ -21,16 +21,16 @@
 - 🎓 Pursuing **BS Software Engineering**  
 - 🔭 Currently working on **Full Stack Websites**  
 
+- **Passionate About:**  
+  🔧 Backend Development   |   <img src="https://img.shields.io/badge/AI%20%2F%20ML-4B5563?style=for-the-badge&logo=roblox&logoColor=white"/>  
+
 - **Currently Learning:**  
   <p>
-    <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=probot&logoColor=white"/>
     <img src="https://img.shields.io/badge/InfoSec-4B5563?style=for-the-badge&logo=hackthebox&logoColor=white"/>
     <img src="https://img.shields.io/badge/SRE-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/FSPM-4B5563?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   </p>
-
-- **Passionate About:**  
-  🔧 Backend Development &nbsp; | &nbsp; 🧠 AI / ML  
 
 - **Ask Me About:**  
   <p>
