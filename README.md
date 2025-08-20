@@ -20,10 +20,22 @@
 
 - 🎓 Pursuing **BS Software Engineering**  
 - 🔭 Currently working on **Full Stack Websites**  
-- 🌱 Learning **Cloud Computing** and **DevOps**  
-- 💡 Passionate about **Backend Development** and **System Design**  
-- 💬 Ask me about **MERN Stack, Java, Docker, Linux**  
-- 📫 Reach me at **[hammadaliduggaljutt@gmail.com](mailto:hammadaliduggaljutt@gmail.com)**  
+- 🌱 Learning:  
+  <p>
+    <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=openai&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/InfoSec-4B5563?style=for-the-badge&logo=security&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/SRE-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/FSPM-4B5563?style=for-the-badge&logo=apachemaven&logoColor=white"/>  
+  </p>
+- 💡 Passionate about **Backend Development** and **AI/ML** 🧠🤖  
+- 💬 Ask me about:  
+  <p>
+    <img src="https://img.shields.io/badge/MERN-4B5563?style=for-the-badge&logo=react&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=coffeescript&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Docker-4B5563?style=for-the-badge&logo=docker&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge&logo=linux&logoColor=white"/>  
+  </p>
+- 📫 Reach me at **[hammadaliduggaljutt@gmail.com](mailto:hammadaliduggaljutt@gmail.com)** ✉️  
 
 <br clear="right"/>
 
