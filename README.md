@@ -35,7 +35,6 @@
 - **Ask Me About:**  
   <p>
     <img src="https://img.shields.io/badge/MERN-4B5563?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-4B5563?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
