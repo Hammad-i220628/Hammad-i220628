@@ -20,8 +20,7 @@
 
 - 🎓 Pursuing **BS Software Engineering**  
 - 🔭 Currently working on **Full Stack Websites**  
-- 🌱 Learning:  
-  <p>
+- 🌱 Learning: <p>
     <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=openai&logoColor=white"/>  
     <img src="https://img.shields.io/badge/InfoSec-4B5563?style=for-the-badge&logo=security&logoColor=white"/>  
     <img src="https://img.shields.io/badge/SRE-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white"/>  
