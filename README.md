@@ -52,11 +52,11 @@
 <summary><b>Programming Languages</b></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-4B5563?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-4B5563?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-4B5563?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-4B5563?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-4B5563?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-4B5563?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 </details>
 
@@ -88,7 +88,6 @@
 ---
 
 ## 🚀 Featured Projects
-<!-- Projects remain unchanged -->
 <div align="center">
   <table>
     <tr>
