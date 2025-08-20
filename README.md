@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/View%20CV-4B5563?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 
-- Reach me at **[hammadaliduggaljutt@gmail.com](mailto:hammadaliduggaljutt@gmail.com)** 
 
 <br clear="right"/>
 
