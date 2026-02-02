@@ -26,10 +26,10 @@
 
 - **Currently Learning:**  
   <p>
-    <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=probot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/InfoSec-4B5563?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SRE-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FSPM-4B5563?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GEN AI-4B5563?style=for-the-badge&logo=probot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PPIT-4B5563?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SMM-4B5563?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Entrepreneurship -4B5563?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   </p>
 
 - **Ask Me About:**  
