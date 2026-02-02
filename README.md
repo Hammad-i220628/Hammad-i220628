@@ -22,7 +22,7 @@
 - 🔭 Currently working on **Full Stack Websites**  
 
 - **Passionate About:**  
-  🔧 Backend Development   |   🤖 AI/ML 
+  🤖 AI/ML 
 
 - **Currently Learning:**  
   <p>
