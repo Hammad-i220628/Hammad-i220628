@@ -41,7 +41,7 @@
 - **My Resume:**
     
   <a href="https://drive.google.com/file/d/1019Yu6txjGAqqiDe9z-m_GVOzg3Bp8k9/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/View%20CV-4B5563?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/View%20Resume-4B5563?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 <br clear="right"/>
 
