@@ -38,9 +38,9 @@
     <img src="https://img.shields.io/badge/Docker-4B5563?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
-- **My CV:**
+- **My Resume:**
     
-  <a href="https://drive.google.com/file/d/10mJ2QEmzYGwUAkzAQwfspTtgyohUBl7s/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1019Yu6txjGAqqiDe9z-m_GVOzg3Bp8k9/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/View%20CV-4B5563?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 <br clear="right"/>
