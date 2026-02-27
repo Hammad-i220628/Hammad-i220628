@@ -99,7 +99,7 @@
 <td width="50%">
     <h3 align="center">PASDAAN </h3>
     <div align="center">
-      <a href="https://your-pasdaan-link.vercel.app/" target="_blank">
+      <a href="https://pasdaan.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="PASDAAN Platform"/>
       </a>
       <p>
